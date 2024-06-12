@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "351714892389",
+    "project_id": "rvwauth",
+    "storage_bucket": "rvwauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351714892389:android:8a39c4417de60c221dc48c",
+        "android_client_info": {
+          "package_name": "com.eemwco.rvw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351714892389-4lps4vm40mlpu3pjrvkt9m69o8fh8jo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMUk8K1InB-dcOi0CUfY_v4Xf1WMwNSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351714892389-4lps4vm40mlpu3pjrvkt9m69o8fh8jo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351714892389-demcve5a4p3007iuq5sfregegra2p424.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eemwco.com.rvw"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351714892389:android:73040606c0dbf1cd1dc48c",
+        "android_client_info": {
+          "package_name": "eemwco.com.rvw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351714892389-4lps4vm40mlpu3pjrvkt9m69o8fh8jo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMUk8K1InB-dcOi0CUfY_v4Xf1WMwNSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351714892389-4lps4vm40mlpu3pjrvkt9m69o8fh8jo7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351714892389-demcve5a4p3007iuq5sfregegra2p424.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eemwco.com.rvw"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
